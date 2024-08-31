@@ -6,7 +6,7 @@
 This YouTube Backend Clone Project Build In Exprees Js And MongoDB For DataBase 
 
 ---
-![Alt text](public/myimage.jpg)
+![Alt text](public/temp/youtubeback.jpg)
 
 ---
 
